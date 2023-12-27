@@ -62,7 +62,7 @@ This application is powered by Webpack (HTML-Webpack-Plugin, Babel, and CSS Load
 
 ## Installation
 
-Users can view and utilize the application through the use of the browser by visiting the deployed application at https://textedit-pwa.onrender.com.
+Users can view and utilize the application through the use of the browser by visiting the deployed application at https://textedit-pwa-f5081baa97b4.herokuapp.com/.
 
 Viewing the application in the browser will also give users the ability to download the application allowing it to be used offline.
 
@@ -78,7 +78,7 @@ Once the application is opened, the IndexedDB will persist any notes added to th
 
 ## Usage Information
 
-Usage of this application is very intuitive, just visit the live URL (https://textedit-pwa.onrender.com) and start adding notes right away! Users will also notice an install button in the nav bar allowing for the application to be downloaded and used offline. Saving of notes occurs automatically through the IndexedDB; the only thing required is for the user to click out of the window and notes will be persisted whether using the application online or offline.
+Usage of this application is very intuitive, just visit the live URL (https://textedit-pwa-f5081baa97b4.herokuapp.com/) and start adding notes right away! Users will also notice an install button in the nav bar allowing for the application to be downloaded and used offline. Saving of notes occurs automatically through the IndexedDB; the only thing required is for the user to click out of the window and notes will be persisted whether using the application online or offline.
 
 ## Suggested Future Development
 
