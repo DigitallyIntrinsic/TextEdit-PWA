@@ -42,6 +42,12 @@ https://textedit-pwa.onrender.com
 
 ## Screenshots
 
+![Screenshot 1](/assets/images/screen1.png)
+
+![Screenshot 2](/assets/images/screen2.png)
+
+![Screenshot 3](/assets/images/screen3.png)
+
 ## Technologies Used
 
 This application is powered by Webpack (HTML-Webpack-Plugin, Babel, and CSS Loader), Node.js (v16.19.1), Express.js (v.14.17.1), and JavaScript. Nodemon (v2.0.4) and Concurrently (v5.2.0) were utilized as a devDependencies allowing the server to refresh when edits were made to application, and allowing both the front end and back end to be ran on a single command (npm run start:dev).
